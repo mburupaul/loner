@@ -1,0 +1,25 @@
+.fruits{
+    background-color: #c5ffb7;
+    border: 2px solid #2b1dff;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+}
+.FRUITS{
+
+    background-color: #787780;
+    border: 1px solid blue;
+    padding: 15px;
+    margin: 20px;
+    text-align: right;
+}
+.cars{
+    background-color: #ff9c1d;
+    text-align: left;
+    max-resolution: 20px;
+    margin: 20px;
+    padding: 15px;
+    border: 2px dotted red;
+
+
+}
